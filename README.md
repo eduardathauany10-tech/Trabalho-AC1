@@ -1,6 +1,8 @@
 "# Trabalho AC1" 
-**Nome:** Seu nome completo
 
-**Turma:** Sua turma
 
-**Data:** 13/10/2026
+**Nome:** Thauany Eduarda Dos Santos Silva 
+
+**Turma:** ADS.1NA
+
+**Data:** 18/10/2026
